@@ -1,2 +1,2 @@
-# Mario-Game-JavaScript-
-Mario Game in JavaScript
+Mario Game in JavaScript.
+a7.html runs the game.
